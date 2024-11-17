@@ -17,13 +17,11 @@ h1 {
     padding: 18px 30px;  
     font-size: 14px;
     font-weight: bold;
-}
-.start-button {
     border: 1px solid var(--secondary-color);
     color: var(--secondary-color);
-
 }
-.start-button:hover {
+
+.primary-button:hover {
     color: var(--secondary-color);
 }
 .hero {
@@ -34,4 +32,9 @@ h1 {
 }
 .hero h2 {
     font-size: 24px;
+}
+@media (max-width: 767px) {
+    .theme {
+        text-align: center;
+    }
 }
