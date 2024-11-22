@@ -38,7 +38,8 @@ p {
     font-size: 24px;
 }
 .content-container {
-    margin: 50px 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .list-link {
