@@ -41,7 +41,6 @@ p {
     margin-top: 50px;
     margin-bottom: 50px;
 }
-
 .list-link {
     text-decoration: none;
     color: black;
@@ -51,6 +50,13 @@ p {
 }
 .corridors:hover {
     color: rgb(0, 0, 0, 0.5);
+}
+.gallery img {
+    border-radius: 5px;
+    margin: 10px 5px;
+}
+.heading {
+    text-align: center;
 }
 @media (max-width: 991px) {
     .about-text {
