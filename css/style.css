@@ -104,8 +104,8 @@ footer .contact-link {
     font-size: 22px;
 }
 .offer {
-    margin: 60px;
-    padding: 30px;
+    margin: 60px 150px;
+    padding: 30px 0px;
     border: 1px solid var(--primary-color);
     border-radius: 5px;
 }
