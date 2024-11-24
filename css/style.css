@@ -122,6 +122,10 @@ footer .contact-link {
     color: white;
     background-color: var(--primary-color);
 }
+footer p a {
+    text-decoration: none;
+    color: var(--primary-color);
+}
 
 @media (max-width: 991px) {
     .info-section {
@@ -134,5 +138,8 @@ footer .contact-link {
     }
     .theme {
         text-align: center;
+    }
+    .content-container h1 {
+        font-size: 48px;
     }
 }
